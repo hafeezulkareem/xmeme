@@ -19,8 +19,7 @@ class MemesAPIs implements MemesService {
 
    constructor() {
       this.api = create({
-         baseURL:
-            "http://ec2-3-7-120-206.ap-south-1.compute.amazonaws.com:8081/api/",
+         baseURL: "https://xmeme-stream.herokuapp.com/api/",
       });
    }
 
