@@ -1,6 +1,6 @@
 # XMeme
 
-A meme stream application exclusively for memers. Go the [Xmeme App](http://3.7.120.206:8081/) and enjoy with your peers.
+A meme stream application exclusively for memers. Go the [Xmeme App](https://xmeme.netlify.app/) and enjoy with your peers.
 
 The app is made as a part of **Crio Winter of Doing**. And it's a great.
 
